@@ -1,0 +1,1 @@
+{"config":{"lang":["pt"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"inicio","text":"<p>kkkkk</p>"},{"location":"tesoura/","title":"Tesoura","text":"<pre><code>    print('ola,muundo)\n</code></pre>"}]}
