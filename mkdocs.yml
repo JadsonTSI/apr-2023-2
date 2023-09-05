@@ -1,0 +1,20 @@
+site_name: Aplicação de Redes de Computadores
+theme:
+  name: material
+  language: pt
+
+repo_name: JadsonTSI/apr-2023-2
+repo_url: https://github.com/JadsonTSI/apr-2023-2
+edit_url: edit/main/docs/
+
+nav:
+- index.md
+- pedra.md
+- papel.md
+- tesoura.md
+
+ensaios:
+- mermaid.md
+
+plugins: 
+- mermaid2
